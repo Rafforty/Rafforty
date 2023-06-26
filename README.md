@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h2> Frontend Developer </h2>
+  <h1> Frontend Developer </h1>
     <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="200px"/>
   <div>
     <img src="https://komarev.com/ghpvc/?username=rafforty&style=flat-square&color=blue" alt=""/>
