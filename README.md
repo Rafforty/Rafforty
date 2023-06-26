@@ -1,14 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="200px"/>
-    <div id="badges">
-      <a href="https://t.me/rafforty" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
-      </a>
-      <a href="https://vk.com/rafforty" target="_blank">
-        <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white" alt="VK Badge"/>
-      </a>
-    </div>
-  <img src="https://komarev.com/ghpvc/?username=rafforty&style=flat-square&color=blue" alt=""/>
+  <h2> Frontend Developer </h2>
+    <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="200px"/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=rafforty&style=flat-square&color=blue" alt=""/>
+  </div>
   <div>
     <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="140px"/>
   </div>
